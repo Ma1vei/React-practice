@@ -1,2 +1,1 @@
-# React-practice
-Projects written in react to train the practice of working with states, functional and class methods of working with react.
+Projects written in react to train the practice of working with states, functional and class methods of working with react. Projects: calculator, tic-tac-toe, shop (training in adding goods to the basket), cryptocurrency wallet with a real api of coins, todolist on js and todolist on react, newsapp (a mini application that displays news using a real api), and a couple of projects based on video tutorials. All the projects were written in order to study the work of react, so they have practically no styles.
